@@ -1,0 +1,16 @@
+Components
+    Navbar
+        button Components
+    Work
+    Stripes
+        Stripe
+    Products
+        Product
+    Marquee
+    Blocks
+        Block
+    Footer
+
+smoothness handle- locomotive js beta
+animation of work component
+jab value25 ho first image dikhe jab value 50 ho second image 
